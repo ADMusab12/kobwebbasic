@@ -44,9 +44,6 @@ kobweb run --env prod
 If you want to run this command in the Cloud provider of your choice, consider disabling interactive mode since nobody
 is sitting around watching the console in that case anyway. To do that, use:
 
-website look
-![image](https://github.com/user-attachments/assets/62c8a030-a0ba-41e7-9c7c-1c868dad3d04)
-
 
 ```bash
 kobweb run --env prod --notty
@@ -55,3 +52,8 @@ kobweb run --env prod --notty
 Kobweb also supports exporting to a static layout which is compatible with static hosting providers, such as GitHub
 Pages, Netlify, Firebase, any presumably all the others. You can read more about that approach here:
 https://bitspittle.dev/blog/2022/staticdeploy
+
+
+website look:
+
+![image](https://github.com/user-attachments/assets/62c8a030-a0ba-41e7-9c7c-1c868dad3d04)

@@ -44,6 +44,10 @@ kobweb run --env prod
 If you want to run this command in the Cloud provider of your choice, consider disabling interactive mode since nobody
 is sitting around watching the console in that case anyway. To do that, use:
 
+website look
+![image](https://github.com/user-attachments/assets/62c8a030-a0ba-41e7-9c7c-1c868dad3d04)
+
+
 ```bash
 kobweb run --env prod --notty
 ```
